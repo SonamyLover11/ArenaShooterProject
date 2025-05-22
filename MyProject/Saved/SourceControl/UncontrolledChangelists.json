@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Genes/Documents/Unreal Projects/MyProject/Content/Week1AssignmentGameEngineAccessTestandNavigation.umap",
+				"C:/Users/Genes/Documents/Unreal Projects/MyProject/Content/BP_MyObject.uasset"
+			]
+		}
+	]
+}
