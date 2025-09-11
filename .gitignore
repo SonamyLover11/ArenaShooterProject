@@ -1,0 +1,11 @@
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+/.vs/
+/Binaries/
+Build/
+*.sln.ide/
+*.VC.db
+*.opensdf
+*.sdf
+*.log
